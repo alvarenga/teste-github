@@ -1,5 +1,1 @@
-Nosso pri eiro arquivo 
-
-do 
-
-teste-github
+Nosso primeiro arquivo do teste-github
